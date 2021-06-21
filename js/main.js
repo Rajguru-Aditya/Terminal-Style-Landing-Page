@@ -5,7 +5,7 @@ const contactContent = document.querySelector('#contact-content');
 
 const aboutBox = function(){
     new WinBox({
-        title: "About Me",
+        title: "About Us",
         background: "#00aa00",
         width: "400px",
         height: "400px",
@@ -25,7 +25,7 @@ const aboutBox = function(){
 
 const contactBox = function(){
     new WinBox({
-        title: "About Me",
+        title: "Contact Us",
         background: "#00aa00",
         width: "400px",
         height: "400px",
